@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Annash
 - 📌 I’m interested in Bioinformatics, solving biological problems with the help of coding.
-- 🌱 I’ve currently worked on Python project related to Diabetes Prediction and this summer I'm focused on doing more projects using Python
+- 🌱 I’ve recently worked on Python project related to Diabetes Prediction and this summer I'm focused on doing more projects using Python
 - 📫 You can reach me through my Linkedin or email!
